@@ -1,0 +1,15 @@
+\
+    # Python / venv
+    venv/
+    __pycache__/
+    *.pyc
+    .ipynb_checkpoints/
+
+    # Outputs & logs
+    outputs/*
+    !outputs/.gitkeep
+    logs/*
+    !logs/.gitkeep
+
+    # OS / editor
+    .DS_Store

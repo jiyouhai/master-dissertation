@@ -1,0 +1,88 @@
+{
+  "N": 35,
+  "q": 0.8,
+  "method": "analytical_mfpt_aw_inversion",
+  "aggregated": {
+    "0.0": {
+      "mfpt_mean": 3570.0,
+      "mfpt_std": 0.0,
+      "mode_mean": 4334.0,
+      "mode_std": 0.0,
+      "mode_over_mfpt_mean": 1.214005602240896,
+      "n_samples": 10
+    },
+    "0.02": {
+      "mfpt_mean": 14501.377800674105,
+      "mfpt_std": 507.97307647181185,
+      "mode_mean": 661.0,
+      "mode_std": 4.1952353926806065,
+      "mode_over_mfpt_mean": 0.04563858075899767,
+      "n_samples": 10
+    },
+    "0.04": {
+      "mfpt_mean": 14678.138870988036,
+      "mfpt_std": 408.5849279245401,
+      "mode_mean": 688.2,
+      "mode_std": 8.623224454924038,
+      "mode_over_mfpt_mean": 0.04691013354245967,
+      "n_samples": 10
+    },
+    "0.06": {
+      "mfpt_mean": 15146.825682910607,
+      "mfpt_std": 777.8661075482496,
+      "mode_mean": 732.2,
+      "mode_std": 10.409610943738484,
+      "mode_over_mfpt_mean": 0.048461138749781675,
+      "n_samples": 10
+    },
+    "0.08": {
+      "mfpt_mean": 16058.744260325378,
+      "mfpt_std": 1150.9248552329698,
+      "mode_mean": 773.5,
+      "mode_std": 17.545654732725136,
+      "mode_over_mfpt_mean": 0.04840123517123231,
+      "n_samples": 10
+    },
+    "0.1": {
+      "mfpt_mean": 16553.867523677018,
+      "mfpt_std": 1383.7667746606908,
+      "mode_mean": 818.1,
+      "mode_std": 29.402210801230577,
+      "mode_over_mfpt_mean": 0.04975458850701365,
+      "n_samples": 10
+    },
+    "0.12": {
+      "mfpt_mean": 18816.94200978843,
+      "mfpt_std": 2869.85152438589,
+      "mode_mean": 883.4,
+      "mode_std": 44.94485510044504,
+      "mode_over_mfpt_mean": 0.04772668750599008,
+      "n_samples": 10
+    },
+    "0.14": {
+      "mfpt_mean": 16997.769740888263,
+      "mfpt_std": 1349.9948789359787,
+      "mode_mean": 912.1,
+      "mode_std": 49.964887671243694,
+      "mode_over_mfpt_mean": 0.054022161159728965,
+      "n_samples": 10
+    },
+    "0.16": {
+      "mfpt_mean": 17648.251164353143,
+      "mfpt_std": 317.179399749015,
+      "mode_mean": 983.75,
+      "mode_std": 66.27358070905781,
+      "mode_over_mfpt_mean": 0.0557488892117734,
+      "n_samples": 4
+    },
+    "0.2": {
+      "mfpt_mean": 21066.196247708885,
+      "mfpt_std": 2513.8075288094224,
+      "mode_mean": 1167.5,
+      "mode_std": 59.5,
+      "mode_over_mfpt_mean": 0.05656300107460045,
+      "n_samples": 2
+    }
+  },
+  "computation_time": 815.6546468734741
+}
